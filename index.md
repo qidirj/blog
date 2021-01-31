@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 关于博客
 
-You can use the [editor on GitHub](https://github.com/qidirj/qidirj/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[我的第一个博客](https://qidirj-im666.blog.luogu.org)是在[洛谷](https::www.luogu.com.cn)上建的，不过它的功能已经不足以满足我 ~~（没有扩展就真的很烦）~~ （其实我还有第二个博客，在博客园上，不过基本废了）。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+于是我找到了 Github，并且因为我听说过 Github 上可以建站，于是我很快就又建了一个博客，现在正在搬运我的洛谷博客上的文章。
 
-### Markdown
+我将来也许会创建一些开源项目，所以我提前在 Github 上准备好了这些东西。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qidirj/qidirj/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[文章列表](https://qidirj.github.io/blog/filelist.md)
