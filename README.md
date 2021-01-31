@@ -21,3 +21,10 @@ I'll probably use Github to create some projects in the future, so I created thi
 于是我找到了 Github，并且因为我听说过 Github 上可以建站，于是我很快就又建了一个博客，现在正在搬运我的洛谷博客上的文章。
 
 我将来也许会创建一些开源项目，所以我提前在 Github 上准备好了这些东西。
+
+## 建设进度
+
+- [x] 建站
+- [ ] 搬运题解
+- [ ] 搬运杂文
+- [ ] 搬运SCP（指OI版SCP）
